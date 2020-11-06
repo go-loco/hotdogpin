@@ -2,7 +2,7 @@ INSTALLATION
 
 Install go (go language) for the server to run -> https://golang.org/doc/install
 
-Install projecto go dependencies. From the command line:
+Install go dependencies for this project. From the command line:
   go get -u github.com/gin-gonic/gin
   go get -u github.com/stripe/stripe-go
 
